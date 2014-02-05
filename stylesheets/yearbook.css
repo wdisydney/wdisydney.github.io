@@ -29,7 +29,7 @@ body {
 *******************************************/
 /* line 37, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .header {
-  background-image: url("https://s3.amazonaws.com/uploads.hipchat.com/39979/476837/dVYALfjBggs6e5j/GROUPSHOTS%20%282000%29.jpg");
+  background-image: url("/images/groupshot.png");
   height: 100vh;
   background-size: cover;
   z-index: -1; }
