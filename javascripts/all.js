@@ -2,10 +2,12 @@
 $(window).load(function(){
     console.log($(this).width())
 
-    if (($(this).width()) < 900) {
+    if (($(this).width()) < 1000) {
       $('#header').removeClass('header').addClass('mobile-header');
       $('#navigation').removeClass('navigation').addClass('mobile-navigation');
       $('#gallery-section').removeClass('gallery-section').addClass('mobile-gallery-section');
+      $('#mast1').addClass('mobile-navigation');
+      $('#mast2').addClass('mobile-navigation');
     }
 
 });

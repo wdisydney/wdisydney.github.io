@@ -74,21 +74,19 @@ li {
 *******************************************/
 /* line 85, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .general-assembly-info {
-  width: 100%;
   background-color: white;
   /* #E51B24;*/ }
 
-/* line 90, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 89, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .header h1 {
   margin-top: 0px;
   padding-top: 15px; }
 
-/* line 95, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 94, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .ga-info {
-  height: 22vh;
   margin-top: 28px; }
 
-/* line 100, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 98, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .ga-info h4 {
   padding-top: 4px;
   padding-bottom: 4px;
@@ -97,29 +95,29 @@ li {
   background-color: black;
   color: white; }
 
-/* line 109, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 107, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .ga-info i {
   font-size: 60px;
   color: #E51B24; }
 
-/* line 114, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 112, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 i.fa.fa-github-square {
   margin-bottom: 25px; }
 
-/* line 118, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 116, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .ga-info p {
   padding-left: 15px;
   padding-right: 15px;
   margin-top: -5px; }
 
-/* line 124, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 122, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .last {
   margin-bottom: 70px; }
 
 /*******************************************
                 SIDE NAV
 *******************************************/
-/* line 132, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 130, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .navigation {
   background-color: grey;
   position: absolute;
@@ -130,16 +128,16 @@ i.fa.fa-github-square {
   min-width: 100px;
   vertical-align: middle; }
 
-/* line 143, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 141, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .mobile-navigation {
   display: none; }
 
-/* line 147, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 145, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .sticky {
   position: fixed;
   top: 0px; }
 
-/* line 152, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 150, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .general-assembly-logo img {
   height: 90px;
   width: 90px;
@@ -150,11 +148,11 @@ i.fa.fa-github-square {
   border-radius: 50%;
   background-color: white; }
 
-/* line 163, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 161, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .general-assembly-logo img:hover {
   border: 5px dotted white; }
 
-/* line 167, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 165, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .profile-pic img {
   border: 4px solid white;
   margin: auto;
@@ -166,19 +164,19 @@ i.fa.fa-github-square {
   background-color: white;
   transition: all 0.2s linear; }
 
-/* line 179, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 177, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .profile-pic img:hover {
   border: 2px solid yellow;
   height: 85px;
   width: 85px; }
 
-/* line 185, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 183, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .profile-pic img.hover {
   border: 2px solid yellow;
   height: 85px;
   width: 85px; }
 
-/* line 191, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 189, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .gallery-link {
   background-color: white;
   padding-bottom: 3px;
@@ -191,7 +189,7 @@ i.fa.fa-github-square {
   border-radius: 15px;
   transition: all 0.2s linear; }
 
-/* line 204, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 202, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .back-to-top {
   background-color: white;
   padding-bottom: 3px;
@@ -202,16 +200,16 @@ i.fa.fa-github-square {
   border-radius: 15px;
   transition: all 0.2s linear; }
 
-/* line 215, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 213, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 span.navbar-link {
   font-size: 12px; }
 
-/* line 219, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 217, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .gallery-link:hover {
   border: 2px solid yellow;
   width: 90%; }
 
-/* line 224, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 222, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .back-to-top:hover {
   border: 2px solid yellow;
   width: 90%; }
@@ -219,48 +217,48 @@ span.navbar-link {
 /*******************************************
                 PROFILE PARTIAL
 *******************************************/
-/* line 234, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 232, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .single_profile_section {
   /*background: $profile-background-color;*/
   margin: 30px 30px;
   padding-bottom: 30px;
   border-bottom: 1px solid; }
-  /* line 242, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+  /* line 240, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
   .single_profile_section .profile_student_name h2 {
     font-size: 3em;
     margin-bottom: 30px;
     margin-top: -5px; }
-  /* line 249, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+  /* line 247, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
   .single_profile_section div.left {
     margin-left: 4%;
     margin-right: 5%; }
-  /* line 254, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+  /* line 252, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
   .single_profile_section h2.profile-student-name {
     font-size: 3em;
     margin-bottom: 20px; }
-  /* line 260, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+  /* line 258, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
   .single_profile_section .profile_student_picture img {
     margin-top: 20px;
     width: 100%;
     box-shadow: 3px 3px 3px gray; }
-  /* line 267, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+  /* line 265, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
   .single_profile_section .profile_student_info {
     text-align: center; }
-    /* line 270, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+    /* line 268, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
     .single_profile_section .profile_student_info .profile_info_individual_p {
       margin-bottom: 20px;
       font-size: 1.2em; }
-  /* line 280, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+  /* line 278, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
   .single_profile_section p.one {
     margin-bottom: 0px;
     padding-bottom: 0px; }
-  /* line 288, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+  /* line 286, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
   .single_profile_section .profile_student_links p {
     text-decoration: none;
     /*background-color: #808080;*/
     background-color: white;
     border-radius: 15px; }
-    /* line 295, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+    /* line 293, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
     .single_profile_section .profile_student_links p a i {
       /*color: #FE0034;*/
       color: #808080;
@@ -270,20 +268,20 @@ span.navbar-link {
       padding-right: 3%;
       padding-top: 0%;
       padding-bottom: 0%; }
-    /* line 306, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+    /* line 304, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
     .single_profile_section .profile_student_links p a i:hover {
       color: #FE0034; }
-    /* line 310, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+    /* line 308, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
     .single_profile_section .profile_student_links p a:hover {
       text-decoration: none; }
-  /* line 317, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+  /* line 315, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
   .single_profile_section div.project1 {
     min-height: 270px;
     padding-bottom: 30px; }
-  /* line 322, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+  /* line 320, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
   .single_profile_section div.project2 {
     min-height: 270px; }
-  /* line 327, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+  /* line 325, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
   .single_profile_section h2.project-section {
     width: 92%;
     margin: auto;
@@ -294,44 +292,44 @@ span.navbar-link {
     background-color: black;
     color: white;
     border-radius: 15px; }
-  /* line 339, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+  /* line 337, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
   .single_profile_section p.project-text {
     font-size: 1.2em; }
-  /* line 343, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+  /* line 341, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
   .single_profile_section div.col-md-5.projects {
     margin-bottom: 60px; }
-  /* line 347, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+  /* line 345, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
   .single_profile_section .profile_project_image img {
     width: 85%;
     box-shadow: 3px 3px 3px #808080; }
-  /* line 352, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+  /* line 350, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
   .single_profile_section .profile_project_section {
     margin-top: 20px; }
-    /* line 355, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+    /* line 353, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
     .single_profile_section .profile_project_section .project_section_title h3 {
       margin-bottom: 15px; }
-    /* line 359, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+    /* line 357, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
     .single_profile_section .profile_project_section .single_project_container {
       margin-bottom: 20px; }
-      /* line 366, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+      /* line 364, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
       .single_profile_section .profile_project_section .single_project_container .profile_project_image a img {
         width: 350px;
         margin-top: 20px;
         margin-bottom: 10px;
         box-shadow: 2px 2px 3px #808080; }
-      /* line 377, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+      /* line 375, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
       .single_profile_section .profile_project_section .single_project_container .profile_project_title a {
         text-decoration: none; }
-      /* line 386, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+      /* line 384, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
       .single_profile_section .profile_project_section .single_project_container .profile_project_info {
         padding: 30px 30px; }
-    /* line 393, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+    /* line 391, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
     .single_profile_section .profile_project_section .project_portfolio_link h4 {
       margin: 50px; }
-      /* line 396, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+      /* line 394, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
       .single_profile_section .profile_project_section .project_portfolio_link h4 a {
         text-decoration: none; }
-  /* line 406, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+  /* line 404, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
   .single_profile_section .profile_quote p {
     font-style: italic;
     margin-top: 20px; }
@@ -367,7 +365,7 @@ span.navbar-link {
   font-weight: normal;
   font-style: normal; }
 
-/* line 554, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 552, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-microscope:before,
 .icon-cplusplus:before,
 .icon-wireless:before,
@@ -469,372 +467,372 @@ span.navbar-link {
   display: inline-block;
   text-decoration: inherit; }
 
-/* line 566, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 564, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-microscope:before {
   content: "\f100"; }
 
-/* line 567, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 565, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-cplusplus:before {
   content: "\f101"; }
 
-/* line 568, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 566, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-wireless:before {
   content: "\f102"; }
 
-/* line 569, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 567, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-fire-alt:before {
   content: "\f103"; }
 
-/* line 570, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 568, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-mobile-device:before {
   content: "\f104"; }
 
-/* line 571, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 569, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-objc:before {
   content: "\f105"; }
 
-/* line 572, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 570, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-redhat:before {
   content: "\f106"; }
 
-/* line 573, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 571, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-freebsd:before {
   content: "\f107"; }
 
-/* line 574, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 572, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-heroku:before {
   content: "\f108"; }
 
-/* line 575, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 573, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-python:before {
   content: "\f109"; }
 
-/* line 576, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 574, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-java:before {
   content: "\f10a"; }
 
-/* line 577, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 575, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-satellite:before {
   content: "\f10b"; }
 
-/* line 578, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 576, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-debian:before {
   content: "\f10c"; }
 
-/* line 579, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 577, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-grails:before {
   content: "\f10d"; }
 
-/* line 580, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 578, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-c:before {
   content: "\f10e"; }
 
-/* line 581, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 579, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-postgres:before {
   content: "\f10f"; }
 
-/* line 582, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 580, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-database-alt2:before {
   content: "\f110"; }
 
-/* line 583, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 581, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-raspberrypi:before {
   content: "\f111"; }
 
-/* line 584, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 582, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-nginx:before {
   content: "\f112"; }
 
-/* line 585, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 583, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-ruby-on-rails:before {
   content: "\f113"; }
 
-/* line 586, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 584, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-redis:before {
   content: "\f114"; }
 
-/* line 587, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 585, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-scala:before {
   content: "\f115"; }
 
-/* line 588, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 586, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-gnome:before {
   content: "\f116"; }
 
-/* line 589, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 587, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-perl:before {
   content: "\f117"; }
 
-/* line 590, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 588, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-mysql:before {
   content: "\f118"; }
 
-/* line 591, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 589, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-fedora:before {
   content: "\f119"; }
 
-/* line 592, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 590, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-ghost:before {
   content: "\f11a"; }
 
-/* line 593, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 591, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-google:before {
   content: "\f11b"; }
 
-/* line 594, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 592, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-netbsd:before {
   content: "\f11c"; }
 
-/* line 595, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 593, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-aws:before {
   content: "\f11d"; }
 
-/* line 596, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 594, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-bomb:before {
   content: "\f11e"; }
 
-/* line 597, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 595, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-looking:before {
   content: "\f11f"; }
 
-/* line 598, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 596, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-ruby:before {
   content: "\f120"; }
 
-/* line 599, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 597, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-mysql-alt:before {
   content: "\f121"; }
 
-/* line 600, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 598, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-playframework-alt:before {
   content: "\f122"; }
 
-/* line 601, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 599, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-osx:before {
   content: "\f123"; }
 
-/* line 602, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 600, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-database:before {
   content: "\f124"; }
 
-/* line 603, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 601, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-database-alt:before {
   content: "\f125"; }
 
-/* line 604, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 602, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-shell:before {
   content: "\f126"; }
 
-/* line 605, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 603, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-script:before {
   content: "\f127"; }
 
-/* line 606, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 604, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-antenna:before {
   content: "\f128"; }
 
-/* line 607, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 605, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-coffee-bean:before {
   content: "\f129"; }
 
-/* line 608, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 606, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-scala-alt:before {
   content: "\f12a"; }
 
-/* line 609, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 607, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-platter:before {
   content: "\f12b"; }
 
-/* line 610, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 608, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-java-duke:before {
   content: "\f12c"; }
 
-/* line 611, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 609, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-iphone:before {
   content: "\f12d"; }
 
-/* line 612, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 610, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-script-alt:before {
   content: "\f12e"; }
 
-/* line 613, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 611, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-google-alt:before {
   content: "\f12f"; }
 
-/* line 614, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 612, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-haskell:before {
   content: "\f130"; }
 
-/* line 615, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 613, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-mariadb:before {
   content: "\f131"; }
 
-/* line 616, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 614, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-phone-retro:before {
   content: "\f132"; }
 
-/* line 617, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 615, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-phone-alt:before {
   content: "\f133"; }
 
-/* line 618, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 616, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-csharp:before {
   content: "\f134"; }
 
-/* line 619, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 617, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-php:before {
   content: "\f135"; }
 
-/* line 620, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 618, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-postgres-alt:before {
   content: "\f136"; }
 
-/* line 621, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 619, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-html:before {
   content: "\f137"; }
 
-/* line 622, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 620, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-mfizz:before {
   content: "\f138"; }
 
-/* line 623, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 621, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-apache:before {
   content: "\f139"; }
 
-/* line 624, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 622, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-hadoop:before {
   content: "\f13a"; }
 
-/* line 625, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 623, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-ruby-on-rails-alt:before {
   content: "\f13b"; }
 
-/* line 626, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 624, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-mobile-phone-broadcast:before {
   content: "\f13c"; }
 
-/* line 627, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 625, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-css:before {
   content: "\f13d"; }
 
-/* line 628, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 626, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-playframework:before {
   content: "\f13e"; }
 
-/* line 629, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 627, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-clojure:before {
   content: "\f13f"; }
 
-/* line 630, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 628, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-mobile-phone-alt:before {
   content: "\f140"; }
 
-/* line 631, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 629, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-suse:before {
   content: "\f141"; }
 
-/* line 632, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 630, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-java-bold:before {
   content: "\f142"; }
 
-/* line 633, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 631, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-nginx-alt:before {
   content: "\f143"; }
 
-/* line 634, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 632, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-nginx-alt2:before {
   content: "\f144"; }
 
-/* line 635, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 633, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-linux-mint:before {
   content: "\f145"; }
 
-/* line 636, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 634, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-dreamhost:before {
   content: "\f146"; }
 
-/* line 637, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 635, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-blackberry:before {
   content: "\f147"; }
 
-/* line 638, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 636, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-javascript:before {
   content: "\f148"; }
 
-/* line 639, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 637, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-ubuntu:before {
   content: "\f149"; }
 
-/* line 640, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 638, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-php-alt:before {
   content: "\f14a"; }
 
-/* line 641, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 639, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-centos:before {
   content: "\f14b"; }
 
-/* line 642, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 640, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-nodejs:before {
   content: "\f14c"; }
 
-/* line 643, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 641, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-splatter:before {
   content: "\f14d"; }
 
-/* line 644, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 642, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-3dprint:before {
   content: "\f14e"; }
 
-/* line 645, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 643, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-line-graph:before {
   content: "\f14f"; }
 
-/* line 646, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 644, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-cassandra:before {
   content: "\f150"; }
 
-/* line 647, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 645, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-solaris:before {
   content: "\f151"; }
 
-/* line 648, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 646, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-jetty:before {
   content: "\f152"; }
 
-/* line 649, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 647, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-tomcat:before {
   content: "\f153"; }
 
-/* line 650, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 648, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-oracle:before {
   content: "\f154"; }
 
-/* line 651, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 649, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-oracle-alt:before {
   content: "\f155"; }
 
-/* line 652, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 650, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-mssql:before {
   content: "\f156"; }
 
-/* line 653, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 651, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-google-developers:before {
   content: "\f157"; }
 
-/* line 654, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 652, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-google-code:before {
   content: "\f158"; }
 
-/* line 655, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 653, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-kde:before {
   content: "\f159"; }
 
-/* line 656, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 654, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-grails-alt:before {
   content: "\f15a"; }
 
 /* These classes only added to fix FontFamily to display FontMfizz during debug/inspection */
-/* line 749, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
+/* line 747, /Users/matthewthees/Projects/WDI_yearbook/WDI_yearbook/source/stylesheets/yearbook.css.scss */
 .icon-osx,
 .icon-bomb,
 .icon-mobile-phone-broadcast,
