@@ -1,4 +1,15 @@
 // require_tree .
+$(window).load(function(){
+    console.log($(this).width())
+
+    if (($(this).width()) < 900) {
+      $('#header').removeClass('header').addClass('mobile-header');
+      $('#navigation').removeClass('navigation').addClass('mobile-navigation');
+      $('#gallery-section').removeClass('gallery-section').addClass('mobile-gallery-section');
+    }
+
+});
+
 
 $(window).scroll(function() {
     if ($(this).scrollTop() > $(window).height()) {
